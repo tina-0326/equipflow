@@ -41,6 +41,24 @@
 - Loading 狀態與錯誤處理
 - Mock 資料模式（便於前端獨立開發）
 
+## 前端頁面示意
+
+### 儀錶板
+
+<img width="2526" height="1125" alt="螢幕擷取畫面 (177)" src="https://github.com/user-attachments/assets/2964f742-5c4e-406b-81c3-adcd83230311" />
+
+### 報修管理
+
+<img width="2556" height="1130" alt="螢幕擷取畫面 (178)" src="https://github.com/user-attachments/assets/6585af33-c911-4702-81a5-4280db62ae01" />
+
+### 設備管理
+
+<img width="2516" height="1143" alt="螢幕擷取畫面 (179)" src="https://github.com/user-attachments/assets/3883e68d-8e36-450f-bbd4-eb63eb00b08a" />
+
+### 新增報修單
+
+<img width="2524" height="1136" alt="螢幕擷取畫面 (180)" src="https://github.com/user-attachments/assets/89508066-4c23-4f3a-9a00-5f01fa48d2be" />
+
 ## 技術架構
 
 ### Frontend
